@@ -1,0 +1,42 @@
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	background-color: #9C9;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: 0;
+	border-right-style: 0;
+	border-bottom-style: 0;
+	border-left-style: 0;
+}
+.wrapper {
+	padding: 0px;
+	width: 950px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 20px;
+	color: #000000;
+	background-color: #6C9;
+}
+.wrapper {
+	background-color: #FFF;
+}
+
+.navigation div table {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-style: normal;
+	color: #000000;
+	background-color: #669966;
+	height: auto;
+	width: auto;
+	border: thick solid #000;
+	margin: auto;
+	padding: 10px;
+	line-height: normal;
+	text-align: center;

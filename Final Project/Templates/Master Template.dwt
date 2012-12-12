@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div class="wrapper">
+  <div class="navigation">
+    <h1 align="center"><strong>The Classic Five </strong></h1>
+    <table width="829">
+      <tr>
+        <td width="110" height="50">Home</td>
+        <td width="164">David Ruffin</td>
+        <td width="146">Eddie Kendricks </td>
+        <td width="171">Melvin Franklin</td>
+        <td width="131">Paul Williams </td>
+      </tr>
+    </table>
+  </div>
+  <div class="content"></div>
+</div>
+</body>
+</html>
