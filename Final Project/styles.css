@@ -1,7 +1,7 @@
 body {
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-size: 14px;
-	background-color: #000304;
+	background-color: #FFFFFF;
 	border-top-width: 0px;
 	border-right-width: 0px;
 	border-bottom-width: 0px;
@@ -10,9 +10,20 @@ body {
 	border-right-style: 0;
 	border-bottom-style: 0;
 	border-left-style: 0;
+	background-image: url(images/background.png);
 }
+.wrapper .content {
+	background-color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+.content {
+	background-color: #FFF;
+}
+
+
 .wrapper {
-	padding: 0px;
+	padding: 5px;
 	width: 950px;
 	margin-top: 0px;
 	margin-right: auto;
@@ -21,7 +32,12 @@ body {
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-size: 20px;
 	color: #000000;
-	background-color: #6C9;
+	background-color: #CECECE;
+	line-height: normal;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
 }
 .wrapper {
 	background-color: #FFF;
@@ -36,7 +52,7 @@ body {
 	height: auto;
 	width: auto;
 	border: thick solid #000;
-	margin: auto;
+	margin: 10px;
 	padding: 10px;
 	line-height: normal;
 	text-align: center;

@@ -13,18 +13,20 @@
 <body>
 <div class="wrapper">
   <div class="navigation">
-    <h1 align="center"><strong>The Classic Five </strong></h1>
-    <table width="829">
+    <h1 align="center"> <strong>The Classic Five </strong></h1>
+    <table width="925">
       <tr>
-        <td width="110" height="50"><a href="../index.html">Home</a></td>
-        <td width="164"><a href="../david-ruffin.html">David Ruffin</a></td>
-        <td width="146"><a href="../eddie-kendricks.html">Eddie Kendricks </a></td>
-        <td width="171"><a href="../melvin-franklin.html">Melvin Franklin</a></td>
-        <td width="131"><a href="../paul-williams.html">Paul Williams </a></td>
-      </tr>
+        <td width="184"><div align="center"><a href="../index.html">Home</a></div></td>
+        <td width="184"><div align="center"><a href="../david-ruffin.html">David Ruffin</a></div></td>
+        <td width="184"><div align="center"><a href="../eddie-kendricks.html">Eddie Kendricks </a></div></td>
+        <td width="184"><div align="center"><a href="../melvin-franklin.html">Melvin Franklin</a></div></td>
+        <td width="184"><div align="center"><a href="../paul-williams.html">Paul Williams </a></div></td>
+      	<td width="184"><div align="center"><a href="../otis-williams.html">Otis Williams </a></div></td>
+        </tr>
     </table>
-  </div>
-  <div class="content"> </div>
-</div>
+  </div> 
+  <div class="content"><!-- TemplateBeginEditable name="home" -->
+  <p>This is where I will put content for my home page.</p><!-- TemplateEndEditable --></div>
+<!-- TemplateEndEditable --></div>
 </body>
 </html>
